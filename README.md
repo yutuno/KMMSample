@@ -1,10 +1,6 @@
 # KMMSample
-## Environment
-![android_studio](screenshot/android_studio.png)
-![xcode](screenshot/xcode.png)
-
 ## Screenshots
-![screenshots](screenshot/simulators.png)
+![screenshots](screenshots/simulators.png)
 
 ## Reference
 * [KMM documentation](https://kotlinlang.org/docs/mobile/home.html)
